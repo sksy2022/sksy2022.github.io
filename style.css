@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&display=swap');
+
+.explain, .projects {
+    border-radius: 10px;
+    margin: 5%;
+    padding: 5%;
+}
+
+.explain {
+    background-color: #FFEEEE;
+}
+
+.projects {
+    background-color: #EEEEEE;
+}
